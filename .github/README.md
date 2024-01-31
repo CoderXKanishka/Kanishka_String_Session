@@ -1,9 +1,11 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「Kαɳιʂԋƙα Sƚɾιɳɠ Sҽʂʂισɳ 」──
+
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/CoderXKanishka/Kanishka_String_Session&branch=master&name=kanishka)
     
+    ──「Kαɳιʂԋƙα Sƚɾιɳɠ Sҽʂʂισɳ 」──
+
 </h2>
 
 <p align="center">
